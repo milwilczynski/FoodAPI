@@ -1,0 +1,12 @@
+E:\Projects\csharp\FoodAPI\FoodAPI.Contracts\bin\Debug\net7.0\FoodAPI.Contracts.deps.json
+E:\Projects\csharp\FoodAPI\FoodAPI.Contracts\bin\Debug\net7.0\FoodAPI.Contracts.dll
+E:\Projects\csharp\FoodAPI\FoodAPI.Contracts\bin\Debug\net7.0\FoodAPI.Contracts.pdb
+E:\Projects\csharp\FoodAPI\FoodAPI.Contracts\obj\Debug\net7.0\FoodAPI.Contracts.csproj.AssemblyReference.cache
+E:\Projects\csharp\FoodAPI\FoodAPI.Contracts\obj\Debug\net7.0\FoodAPI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\csharp\FoodAPI\FoodAPI.Contracts\obj\Debug\net7.0\FoodAPI.Contracts.AssemblyInfoInputs.cache
+E:\Projects\csharp\FoodAPI\FoodAPI.Contracts\obj\Debug\net7.0\FoodAPI.Contracts.AssemblyInfo.cs
+E:\Projects\csharp\FoodAPI\FoodAPI.Contracts\obj\Debug\net7.0\FoodAPI.Contracts.csproj.CoreCompileInputs.cache
+E:\Projects\csharp\FoodAPI\FoodAPI.Contracts\obj\Debug\net7.0\FoodAPI.Contracts.dll
+E:\Projects\csharp\FoodAPI\FoodAPI.Contracts\obj\Debug\net7.0\refint\FoodAPI.Contracts.dll
+E:\Projects\csharp\FoodAPI\FoodAPI.Contracts\obj\Debug\net7.0\FoodAPI.Contracts.pdb
+E:\Projects\csharp\FoodAPI\FoodAPI.Contracts\obj\Debug\net7.0\ref\FoodAPI.Contracts.dll
